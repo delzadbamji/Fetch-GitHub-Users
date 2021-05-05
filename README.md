@@ -1,0 +1,17 @@
+# Fetch-Github-Users
+This app allows the client to search for GitHub users using the GitHub rest API.
+You can start typing the name and the results will update dynamically.
+
+To run the project:
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
+4. Found Bugs:
+    1. Raise an issue
+    2. Wait patiently
+5. Added new Features: 
+    1. Raise a PR
+    2. Wait patiently
+6. Found a better way to do X :
+    1. Raise a PR
+    2. Wait patiently
