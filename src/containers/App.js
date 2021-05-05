@@ -3,9 +3,9 @@ import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
 import './App.css';
-import Button from 'react-bootstrap/Button'
+//import Button from 'react-bootstrap/Button'
 import dummy from '../dummy';
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
 class App extends Component {
   constructor() {
     super()
