@@ -36,7 +36,12 @@ class App extends Component {
  * Fetch github users using the github rest API 
  */
   onSubmitting = (username)=>{
-    console.log(this.state.searchfield)
+    //console.log(this.state.searchfield)
+    if(username == "" || null){
+      this.setState({ gitUsers: dummy});
+      return;
+    }
+    
     fetch(`https://api.github.com/users/${username}`)
     .then(response=> response.json())
     .then(users => {
