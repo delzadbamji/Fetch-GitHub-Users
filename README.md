@@ -1,6 +1,7 @@
 # Fetch-Github-Users
 This app allows the client to search for GitHub users using the GitHub rest API.
 You can start typing the name and the results will update dynamically.
+The UI is a modified version of @aneagoie 's robofriends from the Udemy course.
 
 To run the project:
 1. Clone this repo
