@@ -17,4 +17,4 @@ To run the project:
     1. Raise a PR
     2. Wait patiently
 
-![Demo](https://github.com/delzadbamji/Fetch-GitHub-Users/blob/main/demo_fetchGitHubUsers.mp4)
+![Demo](https://user-images.githubusercontent.com/20069712/117090722-1b670c00-ad27-11eb-91b3-2cb5674bc9d3.gif)
