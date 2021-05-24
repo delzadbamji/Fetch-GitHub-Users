@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Fetch-GitHub-Users/static/css/main.64a54056.chunk.css",
+    "main.js": "/Fetch-GitHub-Users/static/js/main.221c7488.chunk.js",
+    "main.js.map": "/Fetch-GitHub-Users/static/js/main.221c7488.chunk.js.map",
+    "runtime-main.js": "/Fetch-GitHub-Users/static/js/runtime-main.bbfe296f.js",
+    "runtime-main.js.map": "/Fetch-GitHub-Users/static/js/runtime-main.bbfe296f.js.map",
+    "static/css/2.ac18de59.chunk.css": "/Fetch-GitHub-Users/static/css/2.ac18de59.chunk.css",
+    "static/js/2.e1d86dab.chunk.js": "/Fetch-GitHub-Users/static/js/2.e1d86dab.chunk.js",
+    "static/js/2.e1d86dab.chunk.js.map": "/Fetch-GitHub-Users/static/js/2.e1d86dab.chunk.js.map",
+    "index.html": "/Fetch-GitHub-Users/index.html",
+    "precache-manifest.6b8f331e78d92fea300c3c4cbfe46863.js": "/Fetch-GitHub-Users/precache-manifest.6b8f331e78d92fea300c3c4cbfe46863.js",
+    "service-worker.js": "/Fetch-GitHub-Users/service-worker.js",
+    "static/css/2.ac18de59.chunk.css.map": "/Fetch-GitHub-Users/static/css/2.ac18de59.chunk.css.map",
+    "static/css/main.64a54056.chunk.css.map": "/Fetch-GitHub-Users/static/css/main.64a54056.chunk.css.map",
+    "static/js/2.e1d86dab.chunk.js.LICENSE.txt": "/Fetch-GitHub-Users/static/js/2.e1d86dab.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Fetch-GitHub-Users/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbfe296f.js",
+    "static/css/2.ac18de59.chunk.css",
+    "static/js/2.e1d86dab.chunk.js",
+    "static/css/main.64a54056.chunk.css",
+    "static/js/main.221c7488.chunk.js"
+  ]
+}
